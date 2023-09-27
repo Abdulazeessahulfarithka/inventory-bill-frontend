@@ -1,0 +1,1 @@
+export const API = "https://inventory-billing-app-backend-virid.vercel.app";
